@@ -17,7 +17,7 @@ public class BeerController {
     }
 
     @PostMapping
-    public ResponseEntity<BeerDto> getBeerById(BeerDto beerDto){
+    public ResponseEntity<BeerDto> updateBeerById(BeerDto beerDto){
         return new ResponseEntity<>(HttpStatus.CREATED);
     }
 
