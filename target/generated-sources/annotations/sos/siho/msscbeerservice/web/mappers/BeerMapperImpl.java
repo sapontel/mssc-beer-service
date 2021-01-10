@@ -11,8 +11,8 @@ import sos.siho.msscbeerservice.web.model.BeerStyleEnum;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2021-01-09T18:28:15-0500",
-    comments = "version: 1.3.0.Final, compiler: javac, environment: Java 14.0.1 (Oracle Corporation)"
+    date = "2021-01-09T19:01:54-0500",
+    comments = "version: 1.4.1.Final, compiler: javac, environment: Java 14.0.1 (Oracle Corporation)"
 )
 @Component
 public class BeerMapperImpl implements BeerMapper {

@@ -21,7 +21,7 @@
         <jaxb.version>2.3.0</jaxb.version>
         <maven.compliler.source>${java.version}</maven.compliler.source>
         <maven.compliler.target>${java.version}</maven.compliler.target>
-        <mapstruct.version>1.3.0.Final</mapstruct.version>
+        <mapstruct.version>1.4.1.Final</mapstruct.version>
     </properties>
 
     <dependencies>

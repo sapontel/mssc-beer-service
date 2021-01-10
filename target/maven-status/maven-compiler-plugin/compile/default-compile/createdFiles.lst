@@ -1,4 +1,14 @@
+sos/siho/msscbeerservice/MsscBeerServiceApplication.class
+sos/siho/msscbeerservice/web/model/BeerDto$BeerDtoBuilder.class
+sos/siho/msscbeerservice/domain/Beer$BeerBuilder.class
+sos/siho/msscbeerservice/web/model/BeerStyleEnum.class
+sos/siho/msscbeerservice/web/controller/BeerController.class
 sos/siho/msscbeerservice/web/controller/MvcExceptionHandler.class
 sos/siho/msscbeerservice/web/mappers/BeerMapper.class
+sos/siho/msscbeerservice/web/model/BeerDto.class
+sos/siho/msscbeerservice/repositories/BeerRepository.class
 sos/siho/msscbeerservice/web/mappers/BeerMapperImpl.class
+sos/siho/msscbeerservice/domain/Beer.class
+sos/siho/msscbeerservice/bbotstrap/BeerLoader.class
+sos/siho/msscbeerservice/web/model/BeerPageList.class
 sos/siho/msscbeerservice/web/mappers/DateMapper.class
