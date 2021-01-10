@@ -1,6 +1,5 @@
 package sos.siho.msscbeerservice.services;
 
-import org.springframework.http.ResponseEntity;
 import sos.siho.msscbeerservice.web.model.BeerDto;
 
 import java.util.UUID;

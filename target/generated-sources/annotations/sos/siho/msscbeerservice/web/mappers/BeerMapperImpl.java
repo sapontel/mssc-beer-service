@@ -11,7 +11,7 @@ import sos.siho.msscbeerservice.web.model.BeerStyleEnum;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2021-01-09T19:01:54-0500",
+    date = "2021-01-10T18:48:05-0500",
     comments = "version: 1.4.1.Final, compiler: javac, environment: Java 14.0.1 (Oracle Corporation)"
 )
 @Component
